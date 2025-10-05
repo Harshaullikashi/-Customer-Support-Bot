@@ -1,0 +1,31 @@
+Welcome to TechCorp Support FAQ
+
+Password Reset
+To reset your password, go to the login page and click "Forgot Password." Enter your email address and follow the link sent to your email. You will be redirected to a secure page where you can create a new password. Make sure your new password is at least 8 characters long and contains both letters and numbers.
+
+Account Security
+Enable two-factor authentication for enhanced security. Go to your account settings and select "Security Options." You can use SMS, email, or authenticator apps for 2FA. We recommend using authenticator apps like Google Authenticator or Authy for better security.
+
+Refund Policy
+We offer full refunds within 30 days of purchase for digital products and 14 days for physical products. To request a refund, contact our support team at support@techcorp.com with your order number and reason for the refund. Processing typically takes 3-5 business days.
+
+Contacting Support
+Email us at support@techcorp.com for general inquiries or call our toll-free number 1-800-TECH-HELP (1-800-832-4357) during business hours (9 AM - 6 PM EST, Monday through Friday). For urgent technical issues, use our live chat feature available 24/7 on our website.
+
+Billing and Payments
+We accept all major credit cards, PayPal, and bank transfers. You can update your payment method in your account settings under "Billing Information." All transactions are processed securely through encrypted channels. You will receive email receipts for all purchases.
+
+Product Features
+Our premium subscription includes unlimited access to all features, priority support, and advanced analytics. The basic plan includes core features with limited usage. You can upgrade or downgrade your plan at any time from your account dashboard.
+
+Technical Requirements
+Our software works on Windows 10+, macOS 10.14+, and Linux Ubuntu 18.04+. Minimum system requirements include 4GB RAM, 2GB free disk space, and an internet connection. For optimal performance, we recommend 8GB RAM and a solid-state drive.
+
+Data Privacy
+We are GDPR compliant and never sell your personal data. All data is encrypted in transit and at rest. You can request data deletion or export at any time through your account settings. Our privacy policy is available on our website.
+
+Troubleshooting
+If you're experiencing issues, try clearing your browser cache and cookies first. For software problems, restart the application and check for updates. If problems persist, contact our technical support team with detailed error messages and your system information.
+
+API Access
+Developers can access our REST API with proper authentication. API documentation is available in your developer dashboard. Rate limits apply: 1000 requests per hour for basic accounts and 10000 for premium accounts. Contact our developer support team for custom integration assistance.
