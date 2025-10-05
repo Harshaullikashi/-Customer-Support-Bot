@@ -272,11 +272,6 @@ The bot tracks several performance indicators:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
 
 For questions or issues:
 
@@ -295,3 +290,4 @@ For questions or issues:
 ---
 
 **Note**: This bot is designed for educational and demonstration purposes. For production use, consider additional security measures, real user feedback integration, and performance optimization.
+
